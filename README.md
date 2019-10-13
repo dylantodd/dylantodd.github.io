@@ -8,10 +8,16 @@ I am a cybersecurity professional based in Jelm, WY.
 
 <img src="/images/profilephoto.jpg?raw=true"/>
 
-Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/).
-___
+**Visit my [LinkedIn]**(https://www.linkedin.com/in/dylan-todd/).
 
-In my free time, I enjoy 
+In my free time, I enjoy programming software that I beleive will make the world more  
+safe and secure. I have been trained in Economics from the University of Wyoming, and  
+utilize that knowledge in my attempts to tackle big data questions.
+
+I also enjoy reading, exploring the mountains, snowboarding and travelling.
+
+I am an alumni of Phillips Exeter Academy, and a current student at both Laramie County  
+Community College and the University of Wyoming.
 
 ## Projects 
 
@@ -44,16 +50,17 @@ The following are a few projects that I am currently working on.
 
     Task List: 
     - [ ] accumulate data sets of normal entities in circulatory system
-      - [x] red blood cells
-      - [x] white blood cells
-      - [ ] platelets
-      - [ ] salts
-      - [ ] protein 
+        - [x] red blood cells
+        - [x] white blood cells
+        - [ ] platelets
+        - [ ] salts
+        - [ ] protein 
     - [ ] accumulate data sets of foreign entities in circulatory system 
-      - [ ] pathogens
-      - [ ] cancerous cells
+        - [ ] pathogens
+        - [ ] cancerous cells
     - [ ] program vision recognition capabilities 
-    - [ ] develop ability to compare object in front of nanobot to databases of normal as well as foreign entities
+    - [ ] develop ability to compare object in front of nanobot to databases of normal   
+          as well as foreign entities
     - [ ] condense program down to size appropriate for nanobot technology
 ___
 
