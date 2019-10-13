@@ -8,8 +8,10 @@ I am a cybersecurity professional based in Jelm, WY.
 <img src="/images/profilephoto.jpg" alt="profilePhoto"
         title="Picture of me" width="150" height="150" />
 
-Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/).
-___
+Please feel free to reach me by email, at
+        _dylan.todd777@gmail.com_
+
+Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
 In my free time, I enjoy studying cybersecurity, analyzing risk postures and programming   
 software that I believe will make the world more safe and secure. I have been trained in   
