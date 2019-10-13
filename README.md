@@ -19,7 +19,8 @@ The following are a few projects that I am currently working on.
 
 ### mechChain
 
-    Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
+    Mechanical records retrievable by VIN (for generation of pub_key,   
+    verified on the Block Chain. 
 
     [mechChain repository](https://github.com/dylantodd/mechChain)
 
@@ -35,7 +36,9 @@ The following are a few projects that I am currently working on.
 
 ### cancerLancer
 
-    This project focuses on creating a program small enough to be implemented in nanobot technology to detect the presence of abnormaliities in the body when explored through the circulatory system.
+    This project focuses on creating a program small enough to be implemented   
+    in nanobot technology to detect the presence of abnormaliities in the body   
+    when explored through the circulatory system.
 
     [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
