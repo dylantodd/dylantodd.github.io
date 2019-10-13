@@ -12,7 +12,7 @@ I am a cybersecurity professional based in Jelm, WY.
 Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/).
 ___
 
-In my free time, I enjoy programming software that I beleive will make the world more  
+In my free time, I enjoy programming software that I believe will make the world more  
 safe and secure. I have been trained in Economics from the University of Wyoming, and  
 utilize that knowledge in my attempts to tackle big data questions.
 
@@ -23,14 +23,14 @@ Community College and the University of Wyoming.
 
 ## Projects 
 
-The following are a few projects that I am currently working on. 
+**The following are a few projects that I am currently working on : ** 
 
 ### mechChain
+##### [mechChain repository](https://github.com/dylantodd/mechChain)
+
 
     Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
-
-    [mechChain repository](https://github.com/dylantodd/mechChain)
-
+    
     Task List: 
     - [ ] put together framework for block
     - [ ] put together framework for blockchain
@@ -42,12 +42,12 @@ The following are a few projects that I am currently working on.
     - [ ] create mobile front end to extend program's capabilities to application lvl
 
 ### cancerLancer
+##### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
+
 
     This project focuses on creating a program small enough to be implemented in nanobot   
     technology to detect the presence of abnormalities in the body when explored through   
     the circulatory system.
-
-    [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
     Task List: 
     - [ ] accumulate data sets of normal entities in circulatory system
