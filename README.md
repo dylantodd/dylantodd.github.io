@@ -6,9 +6,9 @@ _Hello, World!_
 
 I am a cybersecurity professional based in Jelm, WY.
 
-<img src="/images/profilephoto.jpg?raw=true"/>
+<img src="/images/profilephoto.jpg?raw=true"/ =250x250>
 
-Visit my [LinkedIn] (https://www.linkedin.com/in/dylan-todd/).
+Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
 In my free time, I enjoy programming software that I beleive will make the world more  
 safe and secure. I have been trained in Economics from the University of Wyoming, and  
