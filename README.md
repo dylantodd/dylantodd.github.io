@@ -6,9 +6,11 @@ _Hello, World!_
 
 I am a cybersecurity professional based in Jelm, WY.
 
-<img src="/images/profilephoto.jpg?raw=true"/ =250x250>
+<img src="/images/profilephoto.jpg" alt="profilePhoto"
+        title="Picture of me" width="150" height="150" />
 
-Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
+Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/).
+___
 
 In my free time, I enjoy programming software that I beleive will make the world more  
 safe and secure. I have been trained in Economics from the University of Wyoming, and  
@@ -25,8 +27,7 @@ The following are a few projects that I am currently working on.
 
 ### mechChain
 
-    Mechanical records retrievable by VIN (for generation of pub_key,   
-    verified on the Block Chain. 
+    Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
 
     [mechChain repository](https://github.com/dylantodd/mechChain)
 
@@ -42,25 +43,22 @@ The following are a few projects that I am currently working on.
 
 ### cancerLancer
 
-    This project focuses on creating a program small enough to be implemented   
-    in nanobot technology to detect the presence of abnormaliities in the body   
-    when explored through the circulatory system.
+    This project focuses on creating a program small enough to be implemented in nanobot technology to detect the presence of abnormaliities in the body when explored through the circulatory system.
 
     [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
     Task List: 
     - [ ] accumulate data sets of normal entities in circulatory system
-        - [x] red blood cells
-        - [x] white blood cells
-        - [ ] platelets
-        - [ ] salts
-        - [ ] protein 
+      - [x] red blood cells
+      - [x] white blood cells
+      - [ ] platelets
+      - [ ] salts
+      - [ ] protein 
     - [ ] accumulate data sets of foreign entities in circulatory system 
-        - [ ] pathogens
-        - [ ] cancerous cells
+      - [ ] pathogens
+      - [ ] cancerous cells
     - [ ] program vision recognition capabilities 
-    - [ ] develop ability to compare object in front of nanobot to databases of normal   
-          as well as foreign entities
+    - [ ] develop ability to compare object in front of nanobot to databases of normal as well as foreign entities
     - [ ] condense program down to size appropriate for nanobot technology
 ___
 
