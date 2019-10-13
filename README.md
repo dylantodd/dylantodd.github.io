@@ -43,7 +43,9 @@ The following are a few projects that I am currently working on.
 
 ### cancerLancer
 
-    This project focuses on creating a program small enough to be implemented in nanobot technology to detect the presence of abnormaliities in the body when explored through the circulatory system.
+    This project focuses on creating a program small enough to be implemented in nanobot   
+    technology to detect the presence of abnormalities in the body when explored through   
+    the circulatory system.
 
     [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
@@ -58,7 +60,8 @@ The following are a few projects that I am currently working on.
       - [ ] pathogens
       - [ ] cancerous cells
     - [ ] program vision recognition capabilities 
-    - [ ] develop ability to compare object in front of nanobot to databases of normal as well as foreign entities
+    - [ ] develop ability to compare object in front of nanobot to databases of   
+          normal as well as foreign entities
     - [ ] condense program down to size appropriate for nanobot technology
 ___
 
