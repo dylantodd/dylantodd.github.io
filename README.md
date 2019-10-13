@@ -8,11 +8,6 @@ I am a cybersecurity professional based in Jelm, WY.
 <img src="/images/profilephoto.jpg" alt="profilePhoto"
         title="Picture of me" width="150" height="150" />
 
-Please feel free to reach me by email, at
-        _dylan.todd777@gmail.com_
-
-Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
-
 In my free time, I enjoy studying cybersecurity, analyzing risk postures and programming   
 software that I believe will make the world more safe and secure. I have been trained in   
 Economics from the University of Wyoming, and utilize that knowledge in my attempts to   
@@ -22,6 +17,11 @@ I also enjoy reading, exploring the mountains, snowboarding and travelling.
 
 I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student of both  
 [Laramie County Community College](https://www.lccc.wy.edu/) and the [University of Wyoming](http://www.uwyo.edu/).
+
+Please feel free to reach me by email, at  
+        _dylan.todd777@gmail.com_
+
+Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
 ## Projects 
 
