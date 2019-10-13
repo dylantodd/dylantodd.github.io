@@ -1,6 +1,5 @@
 # Dylan Todd
-## Personal Website 
-### Powered by GitHub
+##### Personal Website, Powered by Github 
 
 _Hello, World!_
 
@@ -12,18 +11,19 @@ I am a cybersecurity professional based in Jelm, WY.
 Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/).
 ___
 
-In my free time, I enjoy programming software that I believe will make the world more  
-safe and secure. I have been trained in Economics from the University of Wyoming, and  
-utilize that knowledge in my attempts to tackle big data questions.
+In my free time, I enjoy studying cybersecurity, analyzing risk postures and programming   
+software that I believe will make the world more safe and secure. I have been trained in   
+Economics from the University of Wyoming, and utilize that knowledge in my attempts to   
+tackle big data questions.
 
 I also enjoy reading, exploring the mountains, snowboarding and travelling.
 
-I am an alumni of Phillips Exeter Academy, and a current student at both Laramie County  
-Community College and the University of Wyoming.
+I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student of both  
+[Laramie County Community College](https://www.lccc.wy.edu/) and the [University of Wyoming](http://www.uwyo.edu/).
 
 ## Projects 
 
-**The following are a few projects that I am currently working on : ** 
+Here are a few projects that I am currently working on -  
 
 ### mechChain
 ##### [mechChain repository](https://github.com/dylantodd/mechChain)
