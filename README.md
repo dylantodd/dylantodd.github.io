@@ -18,10 +18,9 @@ I also enjoy reading, exploring the mountains, snowboarding and travelling.
 I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student of both  
 [Laramie County Community College](https://www.lccc.wy.edu/) and the [University of Wyoming](http://www.uwyo.edu/).
 
-Please feel free to reach me by email, at  
-        _dylan.todd777@gmail.com_
+###### Please feel free to reach me by email, at _dylan.todd777@gmail.com_
 
-Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
+###### Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
 ## Projects 
 
