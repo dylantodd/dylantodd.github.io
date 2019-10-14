@@ -22,12 +22,12 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 
 ###### Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
-## Projects 
+### Projects 
 
-Here are a few projects that I am currently working on -  
+##### Here are a few projects that I am currently working on -  
 
-### mechChain
-##### [mechChain repository](https://github.com/dylantodd/mechChain)
+#### mechChain
+###### [mechChain repository](https://github.com/dylantodd/mechChain)
 
 
     Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
@@ -42,8 +42,8 @@ Here are a few projects that I am currently working on -
     - [ ] create system for proving work, distribute processing power on reward system
     - [ ] create mobile front end to extend program's capabilities to application lvl
 
-### cancerLancer
-##### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
+#### cancerLancer
+###### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
 
     This project focuses on creating a program small enough to be implemented in nanobot   
