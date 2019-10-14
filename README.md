@@ -31,6 +31,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 #### mechChain
 ###### [mechChain repository](https://github.com/dylantodd/mechChain)
 
+ <progress value="11" max="100"></progress> 
 
     Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
     
@@ -47,6 +48,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 #### cancerLancer
 ###### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
 
+ <progress value="5" max="100"></progress> 
 
     This project focuses on creating a program small enough to be implemented in nanobot   
     technology to detect the presence of abnormalities in the body when explored through   
