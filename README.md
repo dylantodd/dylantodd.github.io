@@ -64,7 +64,6 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
     - [ ] develop ability to compare object in front of nanobot to databases of   
           normal as well as foreign entities
     - [ ] condense program down to size appropriate for nanobot technology
-___
 
 References:
 
