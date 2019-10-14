@@ -33,7 +33,8 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 
  <progress value="11" max="100"></progress> 
 
-    Mechanical records retrievable by VIN (for generation of pub_key, verified on the Block Chain. 
+    Mechanical records retrievable by VIN (for generation of pub_key),  
+    verified on the Block Chain. 
     
     Task List: 
     - [ ] put together framework for block
