@@ -13,7 +13,7 @@ software that I believe will make the world more safe and secure. I have been tr
 Economics from the University of Wyoming, and utilize that knowledge in my attempts to   
 tackle big data questions.
 
-I also enjoy reading, exploring the mountains, snowboarding and travelling.
+I also enjoy reading, exploring the mountains, snowboarding and traveling.
 
 I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student of both  
 [Laramie County Community College](https://www.lccc.wy.edu/) and the [University of Wyoming](http://www.uwyo.edu/).
@@ -26,7 +26,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 
 ### Projects 
 
-##### Here are a few projects that I am currently working on -  
+##### Here are a couple of projects that I'm currently working on : 
 
 #### mechChain
 ###### [mechChain repository](https://github.com/dylantodd/mechChain)
@@ -61,8 +61,11 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
       - [ ] protein 
     - [ ] accumulate data sets of foreign entities in circulatory system 
       - [ ] pathogens
+        - [ ] bacteria
+        - [ ] viruses
+        - [ ] fungi
       - [ ] cancerous cells
-    - [ ] program vision recognition capabilities 
+    - [ ] vision recognition capabilities 
     - [ ] develop ability to compare object in front of nanobot to databases of   
           normal as well as foreign entities
 
