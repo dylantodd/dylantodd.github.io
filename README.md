@@ -58,7 +58,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
       - [x] white blood cells
       - [ ] platelets
       - [ ] salts
-      - [ ] protein 
+      - [ ] proteins 
     - [ ] accumulate data sets of foreign entities in circulatory system 
       - [ ] pathogens
         - [ ] bacteria
@@ -67,7 +67,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
       - [ ] cancerous cells
     - [ ] vision recognition capabilities 
     - [ ] develop ability to compare object in front of nanobot to databases of   
-          normal as well as foreign entities
+          normal / foreign entities
 
 -----
 
