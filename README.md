@@ -22,6 +22,8 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 
 ###### Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
+-----
+
 ### Projects 
 
 ##### Here are a few projects that I am currently working on -  
