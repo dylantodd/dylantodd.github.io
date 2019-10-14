@@ -65,6 +65,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
           normal as well as foreign entities
     - [ ] condense program down to size appropriate for nanobot technology
 
-References:
+-----
 
+References:
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
