@@ -27,13 +27,14 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 ### Organizations
 
 #### The Lighthouse Collective
-###### [The Lighthouse Collective web page](https://lighthousecollective.github.io/)
-###### Email me at The Lighthouse Collective : <dylan.lighthousecollective@gmail.com>
+###### [Visit the Lighthouse Collective web page](https://lighthousecollective.github.io/)
+
 
 When you team up with The Lighthouse Collective, it becomes our responsibility to help you navigate the turbulent waters of small-business success. We are a team of digital marketing, software development, and cybersecurity professionals. Along with a focus on SEO, we make sure to protect your customer's valuable data and PII, or personally identifiable information.
 
 The Lighthouse Collective is currently accepting clients for web design, branding and business development. We are here to help make your business dreams and goals a reality. 
 
+###### Email me at The Lighthouse Collective : <dylan.lighthousecollective@gmail.com>
 -----
 
 ### Projects 
@@ -86,4 +87,4 @@ The Lighthouse Collective is currently accepting clients for web design, brandin
 
 -----
 
-***Thanks for stopping by***
+***Thanks for stopping by!***
