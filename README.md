@@ -39,25 +39,7 @@ The Lighthouse Collective is currently accepting clients for web design, brandin
 
 ### Projects 
 
-##### Here are a couple of projects that I'm currently working on : 
-
-#### mechChain
-###### [mechChain repository](https://github.com/dylantodd/mechChain)
-
- <progress value="11" max="100"></progress> 
-
-    Mechanical records retrievable by VIN (for generation of pub_key),  
-    verified on the Block Chain. 
-    
-    Task List: 
-    - [ ] put together framework for block
-    - [ ] put together framework for blockchain
-    - [x] establish working digSig system
-    - [x] successful generation of pub/priv keys
-    - [ ] design program to allow input onto blockchain from mechanics 
-    - [ ] allow user to forward mechChain for purpose of selling vehicle / verifying maintenance 
-    - [ ] create system for proving work, distribute processing power on reward system
-    - [ ] create mobile front end to extend program's capabilities to application lvl
+##### Here are a some projects that I'm currently working on : 
 
 #### cancerLancer
 ###### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
