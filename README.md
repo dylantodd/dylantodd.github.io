@@ -3,20 +3,19 @@
 
 _Hello, World!_
 
-I am a cybersecurity professional based in Jelm, WY.
+Thanks for stopping by my personal website, take a look around!
 
 <img src="/images/profilephoto.jpg" alt="profilePhoto"
         title="Picture of me" width="150" height="150" />
 
-In my free time, I enjoy studying cybersecurity, analyzing risk postures and programming   
-software that I believe will make the world more safe and secure. I have been trained in   
-Economics from the University of Wyoming, and utilize that knowledge in my attempts to   
-tackle big data questions.
+In my free time, I enjoy learning as much as possible, analyzing risk postures and programming   
+software that I believe will make the world a more secure, interesting and enjoyable place to live. 
+I have been trained in Economics from the University of Wyoming, and utilize that knowledge in my 
+attempts to understand and tackle big questions.
 
-I also enjoy reading, exploring the mountains, snowboarding and traveling.
+I also enjoy reading, exploring the mountains, spending time with my family, and traveling.
 
-I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student of both  
-[Laramie County Community College](https://www.lccc.wy.edu/) and the [University of Wyoming](http://www.uwyo.edu/).
+I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student at the [University of Wyoming](http://www.uwyo.edu/).
 
 ###### Please feel free to reach me by email, at <dylan.todd777@gmail.com>
 
@@ -39,7 +38,7 @@ The Lighthouse Collective is currently accepting clients for web design, brandin
 
 ### Projects 
 
-##### Here are a some projects that I'm currently working on : 
+##### Here are some projects that I'm currently working on : 
 
 #### cancerLancer
 ###### [cancerLancer repository](https://github.com/dylantodd/cancerLancer)
