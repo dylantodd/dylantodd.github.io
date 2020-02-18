@@ -25,8 +25,8 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 
 ### Organizations
 
-<img src="/images/simpleLighthouseWithinGeometry.jpg" alt="profilePhoto"
-        title="Picture of me" width="150" height="150" />
+<img src="/images/simpleLighthouseWithinGeometry.png" alt="lighthouseCollectiveLogo"
+        title="Lighthouse Collective Logo" width="150" height="150" />
 
 #### The Lighthouse Collective
 ###### [Visit the Lighthouse Collective web page](https://lighthousecollective.github.io/)
@@ -39,8 +39,8 @@ The Lighthouse Collective is currently accepting clients for web design, brandin
 ###### Email me at The Lighthouse Collective : <dylan.lighthousecollective@gmail.com>
 ---
 
-<img src="/images/logoStandaloneOne.jpg" alt="profilePhoto"
-        title="Picture of me" width="150" height="150" />
+<img src="/images/logoStandaloneOne.png" alt=".laoLogo"
+        title="Logo for .lao" width="150" height="150" />
         
 #### DOTLAO Software and Application Development
 ###### [Visit the .lao Software & App Development web page]
