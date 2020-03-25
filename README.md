@@ -33,7 +33,7 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 ###### [Visit the Lighthouse Collective web page](https://lighthousecollective.github.io/)
 
 
-When you team up with The Lighthouse Collective, it becomes our responsibility to help you navigate the turbulent waters of small-business success. We are a team of business strategy, digital marketing and technology. Along with a focus on SEO, we make sure to protect your customer's valuable data and PII, or personally identifiable information.
+When you team up with The Lighthouse Collective, it becomes our responsibility to help you navigate the turbulent waters of small-business success. We are a team of business strategy, digital marketing and technology specialists that love to bring ideas to life.
 
 The Lighthouse Collective is currently accepting clients for web design, branding and business development. We are here to help make your business dreams and goals a reality. 
 
