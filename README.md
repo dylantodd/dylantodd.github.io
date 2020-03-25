@@ -9,8 +9,10 @@ Take a look around!
 <img src="/images/profilephoto.jpg" alt="profilePhoto"
         title="Picture of me" width="150" height="150" />
 
-In my free time, I enjoy learning, thinking and creating.   
-Currently, I am working on several mobile applications that I believe will make the world a more secure, interesting and enjoyable place to live. 
+I enjoy learning, thinking and creating.
+
+Currently, I am working on several mobile applications that I believe will make the world a more secure, interesting and enjoyable place to live.
+
 I have been trained in Economics from the University of Wyoming, and utilize that knowledge in my 
 attempts to understand and tackle difficult questions.
 
@@ -18,7 +20,7 @@ I also enjoy reading, exploring the mountains, spending time with my family, and
 
 I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a student at the [University of Wyoming](http://www.uwyo.edu/).
 
-###### Please feel free to reach me by email, at <dylan.todd777@gmail.com>
+###### Please feel free to reach me by email, at <dmtodd@protonmail.com>
 
 ###### Visit my [LinkedIn](https://www.linkedin.com/in/dylan-todd/)
 
