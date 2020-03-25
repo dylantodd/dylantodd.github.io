@@ -9,10 +9,10 @@ Take a look around!
 <img src="/images/profilephoto.jpg" alt="profilePhoto"
         title="Picture of me" width="150" height="150" />
 
-In my free time, I enjoy learning, analyzing risk postures, consulting small businesses and creating   
-mobile applications that I believe will make the world a more secure, interesting and enjoyable place to live. 
+In my free time, I enjoy learning, thinking and creating.   
+Currently, I am working on several mobile applications that I believe will make the world a more secure, interesting and enjoyable place to live. 
 I have been trained in Economics from the University of Wyoming, and utilize that knowledge in my 
-attempts to understand and tackle big questions.
+attempts to understand and tackle difficult questions.
 
 I also enjoy reading, exploring the mountains, spending time with my family, and traveling.
 
@@ -42,15 +42,3 @@ The Lighthouse Collective is currently accepting clients for web design, brandin
 -----
 
 ***Thanks for stopping by!***
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149905245-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-149905245-1');
-</script>
-
-
