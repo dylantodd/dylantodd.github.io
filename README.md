@@ -34,12 +34,42 @@ I am an alumni of [Phillips Exeter Academy](https://www.exeter.edu/), and a stud
 #### The Lighthouse Collective
 ###### [Visit the Lighthouse Collective web page](https://lighthousecollective.github.io/)
 
-
-When you team up with The Lighthouse Collective, it becomes our responsibility to help you navigate the turbulent waters of small-business success. We are a team of business strategy, digital marketing and technology specialists that love to bring ideas to life.
-
-The Lighthouse Collective is currently accepting clients for web design, branding and business development. We are here to help make your business dreams and goals a reality. 
+The Lighthouse Collective advises brands, retailers and accelerators on marketing, technology strategy and consumer behavior. We leverage the power of technology, location, and creativity to foster creativity and individuality; placing your brand at the heart of conversation.
 
 ###### Email me at The Lighthouse Collective : <dylan.lighthousecollective@gmail.com>
+
+-----
+
+### Projects
+#### Beacon
+###### Suicidal ideation de-escalation application
+[Beacon Repository](https://github.com/dotlao/beacon)
+
+Beacon is a mobile application focused on effectively de-escalating users who are at varying levels of suicidal ideation. This app will act as a hub for connecting users to our escalation system, including:
+
+* A **Responsive Artificial Intelligence** responsible for :
+    * Intake information
+    * De-escalation
+    * Escalation Tier Recommendation
+    * Escalation Speed Recommendation
+    * Ability to Alert EMS
+        
+* A **Volunteer Network** responsible for :
+    * De-escalation
+    * Decision to push to *Practioner Network*
+    * Decision to alert EMS
+    * *Next Steps* modal for follow-up services
+        
+* A **Practioner Network** responsible for :
+    * De-escalation
+    * Decision to alert EMS
+    * *Next Steps* modal for follow-up services
+
+The flow of the escalation system is planned to be : 
+
+**Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
+
+*EMS can be alerted at any point along the way*
 
 -----
 
