@@ -923,7 +923,7 @@ footer img {
 
 .top-bar p a:hover,
 .top-bar p a:focus {
-    color: #555;
+    color: rgb(57, 57, 57);
     text-decoration: none;
 }
 
