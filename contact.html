@@ -2,7 +2,7 @@
 <!--
 contact.html
 Created 06.15.20
-Updated 06.28.20
+Updated 11.21.20
 Dylan Todd  
 The Lighthouse Collective
 -->
@@ -89,45 +89,51 @@ The Lighthouse Collective
 
     <!-- top bar -->
     <div class="top-bar">
-        <h1>contact Me</h1>
+        <h1>Contact Me</h1>
     </div>
     <!-- end top bar -->
 
     <!-- main-container -->
     <div class="container main-container">
         <div class="col-md-6">
-            <form action="#" method="post">
+            <form action="https://formspree.io/f/xrgolnbe" method="post">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="input-contact">
                             <input type="text" name="name">
-                            <span>your name</span>
+                            <span>Name</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="input-contact">
                             <input type="text" name="email">
-                            <span>your email</span>
+                            <span>Email</span>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="input-contact">
-                            <input type="text" name="object">
-                            <span>object</span>
+                            <input type="text" name="subject">
+                            <span>Subject</span>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="textarea-contact">
                             <textarea name="message"></textarea>
-                            <span>message</span>
+                            <span>Message</span>
                         </div>
                     </div>
                     <div class="col-md-12">
-                        <a href="#" class="btn btn-box">Send</a>
+                        <button type="submit" class="btn btn-box" onclick="myFunction()">Send</button>
                     </div>
                 </div>
             </form>
         </div>
+
+        <script>
+            function myFunction() {
+              alert("Success!");
+            }
+        </script>
 
         <div class="col-md-6">
             <h3 class="text-uppercase">Let's Chat</h3>
@@ -137,8 +143,9 @@ The Lighthouse Collective
                 <br> <br>
                 <b>Thanks for stopping by!</b></p>
             <div class="contact-info">
-                <p><i class="ion-android-call"></i>307 421 0383</p>
-                <p><i class="ion-ios-email"></i>dmtodd@protonmail.com</p>
+                <!-- <p><i class="android-call"></i>hire@dylantodd.us</p> -->
+                <p><i class="ion-ios-email"></i><a href="mailto:hire@dylantodd.us"><b>hire@dylantodd.us</b></a></p>
+                <p><i class="ion-ios-email"></i><a href="mailto:hire@dylantodd.us"><b>meet@dylantodd.us</b></a></p>
             </div>
         </div>
 
@@ -149,7 +156,7 @@ The Lighthouse Collective
     <!-- footer -->
     <footer>
         <div class="container-fluid">
-            <p class="copyright">Powered by <b>The Lighthouse Collective,</b> © 2020</p>
+            <p class="copyright">Powered by <a href="https://lighthousecollective.net"><b>The Lighthouse Collective</b></a>, © 2020</p>
         </div>
     </footer>
     <!-- end footer -->
