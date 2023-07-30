@@ -1,7 +1,7 @@
 /*
 * style.css
 * Created 06.15.20
-* Updated 05.01.23
+* Updated 07.30.23
 * Dylan Todd
 */
 
@@ -959,10 +959,13 @@ footer img {
 
 .service-box {
     margin-bottom: 30px;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Change the font */
 }
 
 .service-box h3 {
-    margin-top: 0;
+    margin-top: 20px;
 }
 
 
