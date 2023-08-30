@@ -1167,10 +1167,13 @@ textarea:focus {
     }
     .box-primary-nav a {
         padding: 5px 1em;
-        font-size: 16px;
+        font-size: 18px;
     }
     .box-primary-nav {
         padding: 80px 0 0;
+    }
+    .box-primary-nav li {
+        font-size: 26px; /* Increasing from 22px for better visibility on mobile */
     }
     .box-primary-nav .box-social a {
         font-size: 23px;
@@ -1183,11 +1186,14 @@ textarea:focus {
         float: none;
     }
     .top-bar {
-        padding: 75px 0;
+        padding: 120px 0; /* Increasing from 75px for better visibility */
         background-attachment: scroll;
     }
     .cert-image {
         max-width: 200px;
+    }
+    .social-ul li a {
+        font-size: 42px; /* Increasing from 36px for better visibility on mobile */
     }
 }
 
