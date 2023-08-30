@@ -1,7 +1,7 @@
 /*
 * style.css
 * Created 06.15.20
-* Updated 07.30.23
+* Updated 08.30.23
 * Dylan Todd
 */
 
@@ -36,6 +36,7 @@ html,
 body {
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
     line-height: 1.8;
     color: #393939
 }
@@ -75,11 +76,25 @@ a {
     height: 10px
 }
 
-.color {
+.center-bold {
+    text-align: center;
+    font-weight: bold;
     color: #6096BA;
-    font-size: 11px;
+    font-size: 24px;
 }
 
+.color {
+    color: #6096BA;
+    font-size: 14px;
+}
+
+.cert-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 
 /* typography
 ==================================================*/
@@ -96,7 +111,7 @@ h3 {
 
 h5 {
     color: #e7ecef;
-    font-size: 25px;
+    font-size: 20px;
     text-emphasis: bolder;
 }
 
@@ -364,7 +379,7 @@ h5 {
     font-weight: 300;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    margin: .2em 0;
+    margin: 1.1em;
     text-transform: capitalize;
 }
 
@@ -403,7 +418,7 @@ h5 {
 .box-primary-nav .box-social a {
     width: 30px;
     height: 30px;
-    padding: 0;
+    padding: 5px;
     font-size: 30px
 }
 
@@ -892,8 +907,7 @@ footer img {
 ==================================================*/
 
 .top-bar {
-    color: #333;
-    padding: 150px 0 150px;
+    padding: 100px 0;
     background: -webkit-linear-gradient( rgba(57,57,57, .44), rgba(57,57,57, .66)), url(../img/mtWashingtonBanner2.jpg);
     background: linear-gradient( rgba(57,57,57, .44), rgba(57,57,57, .66)), url(../img/mtWashingtonBanner2.jpg);
     background-size: cover;
@@ -907,7 +921,7 @@ footer img {
     text-transform: uppercase;
     font-weight: 700;
     color: #E7ECEF;
-    line-height: 50px;
+    line-height: 70px;
 }
 
 .top-bar p {
@@ -939,14 +953,14 @@ footer img {
 }
 
 .social-ul li a {
-    font-size: 25px;
-    color: #555;
+    font-size: 36px;
+    color: #6096BA;
     -webkit-transition: all .3s;
     transition: all .3s;
 }
 
 .social-ul li a:hover {
-    color: #888;
+    color: #79bdeb;
 }
 
 
@@ -1098,6 +1112,10 @@ textarea:focus {
     color: #fff;
 }
 
+.chess-piece-spacing {
+    letter-spacing: 13px;
+    font-size: 200%;
+}
 
 /* single project page
 ==================================================*/
@@ -1131,6 +1149,13 @@ textarea:focus {
     .col-md-6 h3 {
         margin-top: 30px;
     }
+    .top-bar {
+        padding: 100px 0;
+        background-attachment: scroll;
+    }
+    .cert-image {
+        max-width: 250px;
+    }
 }
 
 @media only screen and (max-width: 670px) {
@@ -1138,11 +1163,11 @@ textarea:focus {
         font-size: 100px;
     }
     .box-intro h5 {
-        font-size: 12px;
+        font-size: 16px;
     }
     .box-primary-nav a {
         padding: 5px 1em;
-        font-size: 14px;
+        font-size: 16px;
     }
     .box-primary-nav {
         padding: 80px 0 0;
@@ -1152,10 +1177,17 @@ textarea:focus {
     }
     .top-bar h1 {
         font-size: 40px;
-        line-height: 30px;
+        line-height: 50px;
     }
     .portfolio .categories-grid .categories ul li {
         float: none;
+    }
+    .top-bar {
+        padding: 75px 0;
+        background-attachment: scroll;
+    }
+    .cert-image {
+        max-width: 200px;
     }
 }
 
@@ -1164,10 +1196,17 @@ textarea:focus {
         font-size: 80px;
     }
     .box-intro h5 {
-        font-size: 12px;
+        font-size: 18px;
     }
     .main-container {
         padding: 50px 0;
+    }
+    .top-bar {
+        padding: 50px 0;
+        background-attachment: scroll;
+    }
+    .cert-image {
+        max-width: 150px;
     }
 }
 
@@ -1176,10 +1215,17 @@ textarea:focus {
         font-size: 50px;
     }
     .box-intro h5 {
-        font-size: 12px;
+        font-size: 20px;
     }
     .top-bar h1 {
         font-size: 30px;
         line-height: 30px;
+    }
+    .top-bar {
+        padding: 30px 0;
+        background-attachment: scroll;
+    }
+    .cert-image {
+        max-width: 120px;
     }
 }
