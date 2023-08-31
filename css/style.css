@@ -96,6 +96,12 @@ a {
     margin: 0 auto;
 }
 
+.personal-stamp {
+    max-width: 100%;
+    height: auto;
+    width: 75px; /* This is the default width for larger screens */
+}
+
 /* typography
 ==================================================*/
 
@@ -111,7 +117,7 @@ h3 {
 
 h5 {
     color: #e7ecef;
-    font-size: 20px;
+    font-size: 24px;
     text-emphasis: bolder;
 }
 
@@ -406,7 +412,7 @@ h5 {
     color: #6096BA;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 26px;
     margin: 2em 0 .8em;
 }
 
@@ -418,8 +424,8 @@ h5 {
 .box-primary-nav .box-social a {
     width: 30px;
     height: 30px;
-    padding: 5px;
-    font-size: 30px
+    padding: 12px;
+    font-size: 36px
 }
 
 .box-primary-nav.is-visible {
@@ -432,7 +438,7 @@ h5 {
 }
 
 .box-primary-nav li {
-    font-size: 22px;
+    font-size: 24px;
 }
 
 
@@ -1154,7 +1160,7 @@ textarea:focus {
         background-attachment: scroll;
     }
     .cert-image {
-        max-width: 250px;
+        max-width: 275px;
     }
 }
 
@@ -1166,17 +1172,17 @@ textarea:focus {
         font-size: 16px;
     }
     .box-primary-nav a {
-        padding: 5px 1em;
-        font-size: 18px;
+        padding: 2.5px 1em;
+        font-size: 20px;
     }
     .box-primary-nav {
         padding: 80px 0 0;
     }
     .box-primary-nav li {
-        font-size: 26px; /* Increasing from 22px for better visibility on mobile */
+        font-size: 24px; /* Increasing from 22px for better visibility on mobile */
     }
     .box-primary-nav .box-social a {
-        font-size: 23px;
+        font-size: 32px;
     }
     .top-bar h1 {
         font-size: 40px;
@@ -1186,14 +1192,23 @@ textarea:focus {
         float: none;
     }
     .top-bar {
-        padding: 120px 0; /* Increasing from 75px for better visibility */
-        background-attachment: scroll;
+        padding: 80px 0; /* Increasing from 75px for better visibility */
+        background-attachment: fixed;
     }
     .cert-image {
-        max-width: 200px;
+        max-width: 250px;
     }
     .social-ul li a {
-        font-size: 42px; /* Increasing from 36px for better visibility on mobile */
+        font-size: 24px;
+    }
+    .center-bold {
+        font-size: 22px;
+    }
+    .personal-stamp {
+        width: 50px;
+    }
+    .box-primary-nav .box-label {
+        font-size: 24px;
     }
 }
 
@@ -1207,12 +1222,8 @@ textarea:focus {
     .main-container {
         padding: 50px 0;
     }
-    .top-bar {
-        padding: 50px 0;
-        background-attachment: scroll;
-    }
     .cert-image {
-        max-width: 150px;
+        max-width: 225px;
     }
 }
 
@@ -1220,18 +1231,18 @@ textarea:focus {
     .box-headline {
         font-size: 50px;
     }
-    .box-intro h5 {
-        font-size: 20px;
-    }
     .top-bar h1 {
         font-size: 30px;
         line-height: 30px;
     }
     .top-bar {
-        padding: 30px 0;
-        background-attachment: scroll;
+        padding: 100 0;
+        background-attachment: fixed;
     }
     .cert-image {
-        max-width: 120px;
+        max-width: 200px;
+    }
+    .center-bold {
+        font-size: 20px;
     }
 }
