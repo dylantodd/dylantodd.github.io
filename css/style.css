@@ -455,6 +455,7 @@ h5 {
 .box-intro .table-cell {
     display: table-cell;
     vertical-align: middle;
+    text-align: center;
 }
 
 .box-intro em {
